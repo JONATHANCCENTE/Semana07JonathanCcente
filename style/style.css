@@ -1,0 +1,23 @@
+table,th, td{
+    border:3px solid rgb(46, 16, 198);
+   
+}
+table {
+    border-collapse: collapse;
+    width:100%; /* % unidad de medida relativa */ 
+    
+}
+td,th { 
+    padding: 5px;
+}
+thead {
+    color: navy;
+}
+tbody {
+    color: green;
+}
+tfoot {
+    color: rgb(231, 11, 11);
+}
+
+
